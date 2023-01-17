@@ -1,16 +1,17 @@
-### Hi there 👋
+# Im Filipe Borelli 👋
 
-<!--
-**hiagofmendes/hiagofmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### BackEnd Node.Js Developer working in Brazil.
+[![Instagram Badge](https://img.shields.io/badge/-@hiagom1-352856?style=flat-square&labelColor=1A132B&logo=instagram&logoColor=white&link=https://www.instagram.com/hiagom1)](https://www.instagram.com/hiagom1) 
+[![Linkedin Badge](https://img.shields.io/badge/-@hiago-mendes-0b5752262?style=flat-square&labelColor=1A132B&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hiago-mendes-0b5752262/)](https://www.linkedin.com/in/hiago-mendes-0b5752262/) 
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 I'm currently working at **Grupo BJL**
+    <br>
+⚙️ I use daily: `.js`, `.jsx`
+    <br>
+🌍 I'm mostly active within the **Javascript Community**
+    <br>
+🌱 Learning all about **Open Source**
+    <br>
+📫 Reach me: [linkedin](https://www.linkedin.com/in/hiago-mendes-0b5752262/)

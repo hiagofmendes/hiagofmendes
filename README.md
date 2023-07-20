@@ -6,7 +6,7 @@
 
 ##### BIO
 
-🏢 I'm currently working at **Grupo BJL**
+🏢 I'm currently working at **Aser Security**
     <br>
 ⚙️ I use daily: `.js`, `.jsx`, `.tsx`
     <br>
